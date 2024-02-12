@@ -1,0 +1,28 @@
+[2023-11-07 09:43:02] [INFO]: POST - WebhookController@finishSignature - request: {"type":"contract","webhookId":555307,"contractId":6800233,"timestamp":1699350178000,"contractStatus":"ARCHIVED","uniqueKey":"555307_ contract_6800233_ARCHIVED","ip":"54.229.149.159"}  
+[2023-11-07 10:50:39] [INFO]: POST - WebhookController@finishSignature - request: {"type":"contract","webhookId":555307,"contractId":6827441,"timestamp":1699354236000,"contractStatus":"ARCHIVED","uniqueKey":"555307_ contract_6827441_ARCHIVED","ip":"54.229.149.159"}  
+[2023-11-07 14:43:58] [INFO]: POST - WebhookController@finishSignature - request: {"type":"contract","webhookId":555307,"contractId":6831359,"timestamp":1699368236000,"contractStatus":"ARCHIVED","uniqueKey":"555307_ contract_6831359_ARCHIVED","ip":"54.229.149.159"}  
+[2023-11-07 16:04:23] [INFO]: GET - PosterController@getPosterApps - request: {"language":"es","component":"LOGIN","app":"android","ip":"81.45.89.140"}  
+[2023-11-07 16:04:37] [INFO]: POST - LoginController@login - request: {"password":"12345678","role":"MERCHANT","username":"bonosxuntaturismo@qaroni.com","ip":"81.45.89.140"}  
+[2023-11-07 16:04:48] [INFO]: POST - LoginController@login - request: {"password":"12345678","role":"MERCHANT","username":"jamaya@qaroni.com","ip":"81.45.89.140"}  
+[2023-11-07 16:05:00] [INFO]: POST - LoginController@login - request: {"password":"12345678","role":"MERCHANT","username":"sfloreano@qaroni.com","ip":"81.45.89.140"}  
+[2023-11-07 16:05:01] [INFO]: GET - MerchantController@getMerchant - request: {"merchantId":"2","ip":"81.45.89.140"}  
+[2023-11-07 16:05:03] [INFO]: GET - MerchantController@getMerchant - request: {"merchantId":"2","ip":"81.45.89.140"}  
+[2023-11-07 16:05:03] [INFO]: GET - PosterController@getPosterApps - request: {"language":"es","component":"PAYMENT","app":"android","ip":"81.45.89.140"}  
+[2023-11-07 16:07:02] [INFO]: POST - CardController@validatePayment - request: {"amount":2500,"qrCode":"$2y$14$S2Nw\/6WKKU5B3oN\/6ftYx.HvWQLNg\/aD3thiPTKfkMD78voP12C6S","merchantId":"2","ip":"81.45.89.140"}  
+[2023-11-07 16:07:14] [INFO]: POST - CardController@createPayment - request: {"amount":2500,"branchId":2,"description":"3453453","nif":"3453345","qrCode":"$2y$14$S2Nw\/6WKKU5B3oN\/6ftYx.HvWQLNg\/aD3thiPTKfkMD78voP12C6S","merchantId":"2","ip":"81.45.89.140"}  
+[2023-11-07 16:08:13] [WARN]: GET - PosterController@getPosterApps - request: {"language":"es","component":"PAYMENT","app":"android","ip":"81.45.89.140"}  
+[2023-11-07 16:08:13] [WARN]: GET - MerchantController@getMerchant - request: {"merchantId":"2","ip":"81.45.89.140"}  
+[2023-11-07 21:46:17] [WARN]: POST - WebhookController@finishSignature - request: {"type":"contract","webhookId":555307,"contractId":6835905,"timestamp":1699393574000,"contractStatus":"ARCHIVED","uniqueKey":"555307_ contract_6835905_ARCHIVED","ip":"54.229.149.159"} 
+[2023-11-25 00:06:24] [INFO]: GET - FaqController@getFaq - request: {"language":"es","type":"CLIENT","faqId":"10","ip":"190.89.45.20"}  
+[2023-11-25 00:10:07] [INFO]: GET - FaqController@getFaq - request: {"language":"es","type":"CLIENT","faqId":"13","ip":"190.89.45.20"}  
+[2023-11-25 00:16:45] [INFO]: GET - FaqController@getFaq - request: {"language":"es","type":"CLIENT","faqId":"9","ip":"190.89.45.20"}  
+[2023-11-25 00:20:01] [INFO]: GET - FaqController@getFaq - request: {"language":"es","type":"CLIENT","faqId":"8","ip":"190.89.45.20"}  
+[2023-11-25 00:20:39] [INFO]: GET - FaqController@getFaq - request: {"language":"es","type":"CLIENT","faqId":"50","ip":"190.89.45.20"}  
+[2023-11-25 00:21:12] [INFO]: GET - FaqController@getFaq - request: {"language":"es","type":"CLIENT","faqId":"51","ip":"190.89.45.20"}  
+[2023-11-25 00:30:29] [INFO]: GET - FaqController@getFaqs - request: {"language":"es","type":"MERCHANT","ip":"190.89.45.20"}  
+[2023-11-25 00:30:29] [INFO]: GET - FaqController@getFaq - request: {"language":"es","type":"MERCHANT","faqId":"51","ip":"190.89.45.20"}  
+[2023-11-25 00:30:29] [SEVERE]: GET - PosterController@getPosterMerchant - request: {"component":"SUPPORT","language":"es","ip":"190.89.45.20"}  
+[2023-11-25 00:30:29] [SEVERE]: GET - PosterController@getPosterMerchant - request: {"component":"SUPPORT_TICKET","language":"es","ip":"190.89.45.20"}  
+[2023-11-25 00:30:35] [SEVERE]: GET - FaqController@getFaq - request: {"language":"es","type":"MERCHANT","faqId":"3","ip":"190.89.45.20"}  
+[2023-11-25 00:39:03] [SEVERE]: GET - FaqController@getFaq - request: {"language":"es","type":"MERCHANT","faqId":"12","ip":"190.89.45.20"}  
+[2023-11-25 16:18:41] [SEVERE]: POST - WebhookController@finishSignature - request: {"type":"contract","webhookId":555307,"contractId":6745536,"timestamp":1700929118000,"contractStatus":"ARCHIVED","uniqueKey":"555307_ contract_6745536_ARCHIVED","ip":"54.229.149.159"}  
